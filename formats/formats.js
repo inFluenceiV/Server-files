@@ -2,7 +2,13 @@
 
 exports.Formats =
 
-		
+	{
+		name: "Random Battle",
+		section: "XY Singles",
+
+		team: 'random',
+		ruleset: ['PotD', 'Pokemon', 'Sleep Clause Mod', 'HP Percentage Mod']
+	},	
 
     {
          name: "S",
